@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1678744752 source:c:\users\user\desktop\tp prog\tp3\ex1.c
+	<stdio.h>
+	<stdlib.h>
+
+1678281556 source:c:\users\user\desktop\tp prog\tp3\exxxx.c
+	<stdio.h>
+	<stdlib.h>
+
